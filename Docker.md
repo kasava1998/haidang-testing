@@ -53,3 +53,6 @@ firewall-cmd --permanent --add-port=4789/udp
 
 > firewall-cmd --reload
 systemctl restart docker
+
+
+![](https://github.com/kasava1998/haidang-testing/blob/main/33616552_358762301300219_8852602229044019200_o.jpg)
